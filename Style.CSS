@@ -1,0 +1,44 @@
+body {
+    background-color: #b59e7b;
+    background-image: url(pexels-marina-m-8356216.jpg);
+}
+h1 {
+    color:ghostwhite;
+    text-align: center;
+    font-weight: bold;
+
+}
+h2 {
+    color:#f6f0cf
+}
+h3 {color :#f6f0cf}
+
+#intro {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    color: white
+
+}
+
+nav {text-align: center ;
+color:white}
+
+#presentation {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#presentation h2 {
+    text-align: center;
+}
+#presentation p {
+    text-align: justify;
+}
+#contact {
+    margin-left: 30%;
+    margin-right: 30%
+}
+#contact{
+    text-align: center;}
+
+#contact {text-align: justify;}
