@@ -36,9 +36,42 @@ color:white}
 }
 #contact {
     margin-left: 30%;
-    margin-right: 30%
+    margin-right: 30%;
+    text-align: center;
 }
-#contact{
-    text-align: center;}
 
 #contact {text-align: justify;}
+
+#cote-a-cote {
+    display:flex;
+}
+@media screen and (max-width:768px){
+    #cote-a-cote {
+        flex-direction: column;
+    }
+    #contact {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+#parcours {
+    text-align: center ;}
+#competences {
+    text-align: center ;}
+
+    #experience {
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+    .centre {
+        margin-left: 30%;
+        margin-right: 30%;
+
+    }
+    @media screen and (max-width:768px){
+      #experience {text-align: left;
+      }
+      .centre 
+      {text-align: left;
+    }
+        }
